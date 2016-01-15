@@ -15,7 +15,7 @@ import java.sql.SQLException;
  */
 public class Conector {
 
-    String url = "C:\\Users\\usuario\\Documents\\NetBeansProjects\\ProxectoBufetAbogados\\src\\Bufet.sqlite";
+    String url = "Bufet.sqlite";
     Connection connect;
 
     public Conector() {
